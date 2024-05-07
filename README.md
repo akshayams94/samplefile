@@ -1,1 +1,1 @@
-# Destop application program
+# Desktop application program.
